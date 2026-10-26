@@ -1,0 +1,8 @@
+.venv/
+data/
+reports/
+backup/
+.env
+__pycache__/
+.pytest_cache/
+exports/

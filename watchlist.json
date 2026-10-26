@@ -1,0 +1,8 @@
+[
+  {"name": "iPhone 13 Pro Max", "keywords": "iphone 13 pro max", "type": "iphone", "cg": 5010, "min_price": 1500000, "max_price": 20000000},
+  {"name": "iPhone 14 Pro Max", "keywords": "iphone 14 pro max", "type": "iphone", "cg": 5010, "min_price": 2500000, "max_price": 25000000},
+  {"name": "iPhone 15 Pro Max", "keywords": "iphone 15 pro max", "type": "iphone", "cg": 5010, "min_price": 3000000, "max_price": 32000000},
+  {"name": "iPhone 16 Pro Max", "keywords": "iphone 16 pro max", "type": "iphone", "cg": 5010, "min_price": 4000000, "max_price": 40000000},
+  {"name": "iPhone 17 Pro Max", "keywords": "iphone 17 pro max", "type": "iphone", "cg": 5010, "min_price": 5000000, "max_price": 50000000},
+  {"name": "honda adv", "keywords": "honda adv"}
+]
